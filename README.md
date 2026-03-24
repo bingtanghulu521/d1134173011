@@ -1,6 +1,7 @@
 | 項次 | 項目 | 內容 |
 | :---: | :---: | :--- |
-| 1 | 圖片 | ![個人照片]([people.png](https://github.com/bingtanghulu521/d1134173011/blob/main/20260324_114431.jpg)) |
+| 1 | 圖片 | ![個人照片](https://github.com/user-attachments/assets/1ed50fd1-76d5-4ead-8502-0410a9d37f4b) |
 | 2 | 姓名 | 王振仰 |
 | 3 | 職稱 | 學生 |
 | 4 | 任職公司 | 龍華科技大學 |
+
